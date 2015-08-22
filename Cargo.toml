@@ -6,6 +6,6 @@ authors = ["Ben H <husobee@e-ie.io>"]
 homepage = "https://github.com/husobee/rust-soundex"
 repository = "https://github.com/husobee/rust-soundex"
 readme = "README.md"
-keywords = ["soundex", "american soundex"]
+keywords = ["soundex", "husobee"]
 license-file = "LICENSE"
 
