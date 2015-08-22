@@ -1,4 +1,11 @@
 [package]
 name = "soundex"
+description = "Soundex Calculations"
 version = "0.1.0"
 authors = ["Ben H <husobee@e-ie.io>"]
+homepage = "https://github.com/husobee/rust-soundex"
+repository = "https://github.com/husobee/rust-soundex"
+readme = "README.md"
+keywords = ["soundex", "american soundex"]
+license-file = "LICENSE"
+
