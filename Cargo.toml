@@ -1,0 +1,4 @@
+[package]
+name = "soundex"
+version = "0.1.0"
+authors = ["Ben H <husobee@e-ie.io>"]
