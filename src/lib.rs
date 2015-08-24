@@ -1,10 +1,8 @@
 // upper - helper function to uppercase chars
 fn upper(c: char) -> char {
-    let upper_c: Option<char> = c.to_uppercase().next();
-    if upper_c.is_some() {
-        return upper_c.unwrap();
-    } else {
-        return ' '
+    match c.to_uppercase().next() {
+        Some(u) => u,
+        None=> ' '
     }
 }
 
